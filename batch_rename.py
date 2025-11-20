@@ -25,4 +25,5 @@ def batch_rename_images(folder_path, prefix="image_"):
 # 调用函数，替换为你的图片文件夹路径，可自定义前缀
 if __name__ == "__main__":
     target_folder = "images"
+
     batch_rename_images(target_folder, prefix="cat")
