@@ -4,4 +4,5 @@ def sum_numbers():
     print(f"数字列表：{nums}")
     print(f"求和结果：{total}")
 
+
 sum_numbers()
