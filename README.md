@@ -1,4 +1,4 @@
-# 📸 Vision-Learning (机器视觉实战笔记)
+# 📸 Vision-Learning 
 
 > **项目简介**：
 > 这是一个结合 **工业现场经验** 与 **Python 算法** 的实战代码库。
